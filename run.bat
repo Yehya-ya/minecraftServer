@@ -1,2 +1,2 @@
-cmd /k java -Xmx1024M -Xms1024M -jar server-1.8.2.jar
+cmd /k java -Xmx4096M -Xms3072M -jar server-1.8.2.jar
 pause
